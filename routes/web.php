@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\TambyController;
+use App\Http\Controllers\KamenController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -9,3 +10,4 @@ Route::get('/', function () {
 
 Route::get('/tamby', [TambyController::class, 'index'])->name('tamby');
 
+Route::get('/kamen',[KamenController::class,'index'])->name('kamen.index');

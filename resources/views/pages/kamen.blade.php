@@ -7,9 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-aonaaaaaaa
-<a href="{{  route('tamby')}}">Tamby</a>
-
-    <a href="{{ route('kamen.index') }}">Kamen</a>
+    <h1>Test kamen</h1>
 </body>
 </html>
