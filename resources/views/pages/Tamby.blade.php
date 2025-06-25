@@ -7,7 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-aonaaaaaaa
-<a href="{{  route('tamby')}}">Tamby</a>
+tamby ihany ty
 </body>
 </html>
