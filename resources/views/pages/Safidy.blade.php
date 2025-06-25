@@ -129,7 +129,7 @@
 
     <footer>
         <p>Contact : safidy@example.com</p>
-        <p>&copy; 2023 Tous droits réservés</p>
+        <p>&copy; 2023 Tous droits réservés bandy milay lego test Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quidem natus voluptas voluptates repellendus harum quas aliquam perferendis eligendi totam beatae?</p>
     </footer>
 </body>
 </html>
