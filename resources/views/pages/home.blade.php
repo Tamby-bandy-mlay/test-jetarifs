@@ -7,8 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-
-    <a href="{{ route('kamen.index') }}">Kamen</a>
+<h1>kaiza vonemba</h1>
 
 
 
@@ -24,5 +23,6 @@
 
 <a href="{{ route('safidy.index') }}">Safidy</a>
 
+<h1>lola</h1>
 </body>
 </html>
