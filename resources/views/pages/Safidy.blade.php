@@ -7,13 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-aonaaaaaaa
-
-
-    <a href="{{ route('kamen.index') }}">Kamen</a>
-
-
-<a href="{{ route('safidy.index') }}">Safidy</a>
-
+    <h1>La page de safidy</h1>
+    <p>Hola</p>
 </body>
 </html>
