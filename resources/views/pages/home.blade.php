@@ -7,8 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-
-    <a href="{{ route('kamen.index') }}">Kamen</a>
+<h1>kaiza vonemba</h1>
 
 
 
