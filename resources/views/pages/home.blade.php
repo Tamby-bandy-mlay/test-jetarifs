@@ -23,5 +23,6 @@
 
 <a href="{{ route('safidy.index') }}">Safidy</a>
 
+<h1>lola</h1>
 </body>
 </html>
