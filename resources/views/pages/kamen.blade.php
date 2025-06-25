@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>Test kamen</h1>
-    <h2>haha Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero, deleniti, ducimus placeat nobis aut iusto sint vel quas voluptatum beatae accusamus asperiores amet cumque. Quia, labore temporibus. Quibusdam, iure vitae.</h2>
+    <h2>haha Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero, deleniti, ducimus placeat nobis aut iusto sint vel quas voluptatum beatae accusamus asperiores amet cumque. Quia, labore temporibus. Quibusdam</h2>
 </body>
 </html>

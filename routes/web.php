@@ -14,10 +14,6 @@ Route::get('/', function () {
 });
 
 Route::get('/kamen',[KamenController::class,'index'])->name('kamen.index');
-
-
-
-
 Route::get('/tamby', [TambyController::class, 'index'])->name('tamby');
 Route::get('/Safidy', [SafidyController::class, 'index'])->name('safidy.index');
 
