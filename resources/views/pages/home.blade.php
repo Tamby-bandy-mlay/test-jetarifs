@@ -7,18 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-aonaaaaaaa
-
-<<<<<<< HEAD
-<a href="{{ route('kamen.index') }}">Kamen</a>
-
-
-
-
-
-
-
-
 
 
 
@@ -29,13 +17,11 @@ aonaaaaaaa
 
 
 <a href="{{  route('tamby')}}">Tamby</a>
-=======
 
     <a href="{{ route('kamen.index') }}">Kamen</a>
 
 
 <a href="{{ route('safidy.index') }}">Safidy</a>
 
->>>>>>> 5bee3bcc3cc3745980bab7366aa809f008c01d22
 </body>
 </html>
