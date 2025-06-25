@@ -11,6 +11,9 @@ aonaaaaaaa
 
     <a href="{{ route('kamen.index') }}">Kamen</a>
 
+    <a href="{{ route('kamen.index') }}">Kamen</a>
+
+
 <a href="{{ route('safidy.index') }}">Safidy</a>
 
 </body>
