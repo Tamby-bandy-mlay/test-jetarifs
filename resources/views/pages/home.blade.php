@@ -9,5 +9,6 @@
 <body>
 aonaaaaaaa
 <a href="{{  route('tamby')}}">Tamby</a>
+<h1>lola</h1>
 </body>
 </html>
