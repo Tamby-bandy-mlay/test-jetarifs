@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>La page de safidy</h1>
+    <p>Hola</p>
 </body>
 </html>
