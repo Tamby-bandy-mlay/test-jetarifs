@@ -7,9 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-aonaaaaaaa
-
-
-<a href="{{ route('safidy.index') }}">Safidy</a>
+    <h1>La page de safidy</h1>
 </body>
 </html>
