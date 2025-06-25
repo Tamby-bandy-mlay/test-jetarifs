@@ -8,6 +8,7 @@
 </head>
 <body>
 
+    <a href="{{ route('kamen.index') }}">Kamen</a>
 
 
 
